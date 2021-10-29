@@ -1,8 +1,12 @@
 
 # jupyter-widget-echo-testing
 
-[![Build Status](https://travis-ci.org/kylebarron/jupyter-widget-echo-testing.svg?branch=master)](https://travis-ci.org/kylebarron/jupyter_widget_echo_testing)
-[![codecov](https://codecov.io/gh/kylebarron/jupyter-widget-echo-testing/branch/master/graph/badge.svg)](https://codecov.io/gh/kylebarron/jupyter-widget-echo-testing)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kylebarron/jupyter-widget-echo-testing/master?labpath=jupyter_example.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylebarron/jupyter-widget-echo-testing/blob/master/Colab_example.ipynb)
+
+<!-- [![Build Status](https://travis-ci.org/kylebarron/jupyter-widget-echo-testing.svg?branch=master)](https://travis-ci.org/kylebarron/jupyter_widget_echo_testing) -->
+<!-- [![codecov](https://codecov.io/gh/kylebarron/jupyter-widget-echo-testing/branch/master/graph/badge.svg)](https://codecov.io/gh/kylebarron/jupyter-widget-echo-testing) -->
 
 
 A Custom Jupyter Widget Library
